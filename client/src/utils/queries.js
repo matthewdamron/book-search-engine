@@ -39,3 +39,10 @@ export const QUERY_ME = gql`
     }
   }
 `;
+
+
+export const QUERY_SEARCH_GOOGLE_BOOKS = gql`
+  {
+    return fetch("https://www.googleapis.com/books/v1/volumes?q=${query}");
+  }
+`;
