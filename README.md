@@ -14,7 +14,7 @@ Book-Search-Engine
 - [Questions](#questions)
 
 ## Description
-A book search engine so that I can keep a list of books to purchase.
+A book search engine so that I can keep a list of books to purchase or books you like.
 
 ## User Story
 ```
@@ -56,11 +56,12 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
-## Screenschots
-<!-- [![Budget Tracker](./images/budget-tracker.png)](https://matthewdamron-budget-tracker.herokuapp.com/) -->
+## Screenshots
+[![Landing Page](./images/landingpage.png)](https://matthewdamron-book-search.herokuapp.com/)
+[![Saved Books Page](./images/savedbooks.png)](https://matthewdamron-book-search.herokuapp.com/)
 
 ## Installation
-<!-- No installation required live website [Budget Tracker](https://matthewdamron-budget-tracker.herokuapp.com/) -->
+No installation required live website [Google Books Search](https://matthewdamron-book-search.herokuapp.com/)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/matthewdamron/book-search-engine)<br />
@@ -69,6 +70,7 @@ This application is covered by the MIT license.
 ## Language
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
